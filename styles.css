@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: bisque;
+}
+
+h1 {
+    color: rgb(127, 193, 27);
+}
+
+ul {
+    list-style-type: disc;
+}
+
+th {
+    background-color: #ad9696;
+}
+
+table {
+    width: 40%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid rgb(201, 75, 75);
+    padding: 10px;
+}
+
+img {
+    width: 40%;
+    height: 20%;
+}
